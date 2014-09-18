@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>BasicDBSource.java</string>
+		</array>
+		<array>
+			<string>ConnectionDemo.java</string>
+		</array>
+		<array>
+			<string>ConnectionPoolDemo.java</string>
+		</array>
+		<array>
+			<string>DBSource.java</string>
+		</array>
+		<array>
+			<string>LobDemo.java</string>
+		</array>
+		<array>
+			<string>PreparedStatementDemo.java</string>
+		</array>
+		<array>
+			<string>ResultDemo.java</string>
+		</array>
+		<array>
+			<string>ResultSetMetaDataDemo.java</string>
+		</array>
+		<array>
+			<string>SimpleDBSource.java</string>
+		</array>
+		<array>
+			<string>StatementResultDemo.java</string>
+		</array>
+	</array>
+</dict>
+</plist>

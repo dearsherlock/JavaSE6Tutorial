@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>ArrayDemo.java</string>
+		</array>
+		<array>
+			<string>ArrayDemo2.java</string>
+		</array>
+		<array>
+			<string>BinarySearchDemo.java</string>
+		</array>
+		<array>
+			<string>CalendarDemo.java</string>
+		</array>
+		<array>
+			<string>ConnectionDemo.java</string>
+		</array>
+		<array>
+			<string>DBSource.java</string>
+		</array>
+		<array>
+			<string>FileDemo.java</string>
+		</array>
+		<array>
+			<string>PasswordDemo.java</string>
+		</array>
+		<array>
+			<string>PasswordDemo2.java</string>
+		</array>
+		<array>
+			<string>SimpleDBSource.java</string>
+		</array>
+		<array>
+			<string>SystemTrayDemo.java</string>
+		</array>
+		<array>
+			<string>SystemTrayDemo2.java</string>
+		</array>
+		<array>
+			<string>SystemTrayDemo3.java</string>
+		</array>
+	</array>
+</dict>
+</plist>

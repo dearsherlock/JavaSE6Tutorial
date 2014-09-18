@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>A</string>
+		<string>B</string>
+		<string>CH10</string>
+		<string>CH11</string>
+		<string>CH12</string>
+		<string>CH13</string>
+		<string>CH14</string>
+		<string>CH15</string>
+		<string>CH16</string>
+		<string>CH17</string>
+		<string>CH18</string>
+		<string>CH19</string>
+		<string>CH20</string>
+		<string>CH21</string>
+		<string>CH3</string>
+		<string>CH4</string>
+		<string>CH5</string>
+		<string>CH6</string>
+		<string>CH7</string>
+		<string>CH8</string>
+		<string>CH9</string>
+		<string>jar</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>HelloJava.java</string>
+		</array>
+	</array>
+</dict>
+</plist>

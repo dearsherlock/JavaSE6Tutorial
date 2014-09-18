@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>AutoBoxDemo.java</string>
+		</array>
+		<array>
+			<string>AutoBoxDemo2.java</string>
+		</array>
+		<array>
+			<string>AutoBoxDemo3.java</string>
+		</array>
+		<array>
+			<string>AutoBoxDemo4.java</string>
+		</array>
+		<array>
+			<string>NowTime.java</string>
+		</array>
+		<array>
+			<string>StringDemo.java</string>
+		</array>
+		<array>
+			<string>UserLogin.java</string>
+		</array>
+		<array>
+			<string>WrapperDemo.java</string>
+		</array>
+	</array>
+</dict>
+</plist>

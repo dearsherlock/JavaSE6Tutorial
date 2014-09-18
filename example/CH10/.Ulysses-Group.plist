@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>AssertionDemo.java</string>
+		</array>
+		<array>
+			<string>CatchWho.java</string>
+		</array>
+		<array>
+			<string>CatchWho2.java</string>
+		</array>
+		<array>
+			<string>CheckArgsDemo.java</string>
+		</array>
+		<array>
+			<string>CheckedExceptionDemo.java</string>
+		</array>
+		<array>
+			<string>ExceptionDemo.java</string>
+		</array>
+		<array>
+			<string>ExceptionDemo2.java</string>
+		</array>
+		<array>
+			<string>ThrowDemo.java</string>
+		</array>
+		<array>
+			<string>ThrowsDemo.java</string>
+		</array>
+	</array>
+</dict>
+</plist>

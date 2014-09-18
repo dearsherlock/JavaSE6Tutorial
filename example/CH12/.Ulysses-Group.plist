@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>BooleanFoo.java</string>
+		</array>
+		<array>
+			<string>ConcreteFoo.java</string>
+		</array>
+		<array>
+			<string>GenericFoo.java</string>
+		</array>
+		<array>
+			<string>GenericFoo2.java</string>
+		</array>
+		<array>
+			<string>GenericFoo3.java</string>
+		</array>
+		<array>
+			<string>GenericFoo4.java</string>
+		</array>
+		<array>
+			<string>GenericFooDemo.java</string>
+		</array>
+		<array>
+			<string>IFoo.java</string>
+		</array>
+		<array>
+			<string>IntegerFoo.java</string>
+		</array>
+		<array>
+			<string>ListGenericFoo.java</string>
+		</array>
+		<array>
+			<string>ObjectFoo.java</string>
+		</array>
+		<array>
+			<string>StringGenericFoo.java</string>
+		</array>
+		<array>
+			<string>SubGenericFoo4.java</string>
+		</array>
+		<array>
+			<string>WrapperFoo.java</string>
+		</array>
+	</array>
+</dict>
+</plist>

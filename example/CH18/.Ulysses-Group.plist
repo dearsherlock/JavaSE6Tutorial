@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>CalendarDemo.java</string>
+		</array>
+		<array>
+			<string>CurrentTime.java</string>
+		</array>
+		<array>
+			<string>DateDemo.java</string>
+		</array>
+		<array>
+			<string>DateFormatDemo.java</string>
+		</array>
+		<array>
+			<string>DateTimeInstanceDemo.java</string>
+		</array>
+		<array>
+			<string>DateTimeInstanceDemo2.java</string>
+		</array>
+		<array>
+			<string>HandlerDemo.java</string>
+		</array>
+		<array>
+			<string>I18NDemo.java</string>
+		</array>
+		<array>
+			<string>LoggerHierarchyDemo.java</string>
+		</array>
+		<array>
+			<string>LoggingDemo.java</string>
+		</array>
+		<array>
+			<string>LoggingLevelDemo.java</string>
+		</array>
+		<array>
+			<string>LoggingLevelDemo2.java</string>
+		</array>
+		<array>
+			<string>LoggingLevelDemo3.java</string>
+		</array>
+		<array>
+			<string>MessageFormatDemo.java</string>
+		</array>
+		<array>
+			<string>messages3_zh_TW.txt</string>
+		</array>
+		<array>
+			<string>ResourceBundleDemo.java</string>
+		</array>
+		<array>
+			<string>TableFormatter.java</string>
+		</array>
+		<array>
+			<string>TableFormatterDemo.java</string>
+		</array>
+	</array>
+</dict>
+</plist>

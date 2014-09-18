@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Action.java</string>
+		</array>
+		<array>
+			<string>ActionConstants.java</string>
+		</array>
+		<array>
+			<string>CommandTool.java</string>
+		</array>
+		<array>
+			<string>DetailAction.java</string>
+		</array>
+		<array>
+			<string>DetailAction2.java</string>
+		</array>
+		<array>
+			<string>DetailAction3.java</string>
+		</array>
+		<array>
+			<string>DetailActionDemo.java</string>
+		</array>
+		<array>
+			<string>EnumCompareTo.java</string>
+		</array>
+		<array>
+			<string>EnumDemo.java</string>
+		</array>
+		<array>
+			<string>EnumDemo2.java</string>
+		</array>
+		<array>
+			<string>EnumIndex.java</string>
+		</array>
+		<array>
+			<string>IDescription.java</string>
+		</array>
+		<array>
+			<string>MoreAction.java</string>
+		</array>
+		<array>
+			<string>MoreAction2.java</string>
+		</array>
+		<array>
+			<string>MoreActionDemo.java</string>
+		</array>
+		<array>
+			<string>ShowEnum.java</string>
+		</array>
+	</array>
+</dict>
+</plist>

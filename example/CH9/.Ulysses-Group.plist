@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>AnonymousClassDemo.java</string>
+		</array>
+		<array>
+			<string>Arrays.java</string>
+		</array>
+		<array>
+			<string>HelloWorld.java</string>
+		</array>
+		<array>
+			<string>ImportStaticDemo.java</string>
+		</array>
+		<array>
+			<string>ImportStaticDemo2.java</string>
+		</array>
+		<array>
+			<string>PackageDemo.java</string>
+		</array>
+		<array>
+			<string>Point2D.java</string>
+		</array>
+		<array>
+			<string>Point2DDemo.java</string>
+		</array>
+		<array>
+			<string>Point2DDemo2.java</string>
+		</array>
+		<array>
+			<string>Point2DDemo3.java</string>
+		</array>
+		<array>
+			<string>PointDemo.java</string>
+		</array>
+		<array>
+			<string>PointShow.java</string>
+		</array>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>AppendStringTest.java</string>
+		</array>
+		<array>
+			<string>CharAtString.java</string>
+		</array>
+		<array>
+			<string>CommandLineArg.java</string>
+		</array>
+		<array>
+			<string>CommandLineArg2.java</string>
+		</array>
+		<array>
+			<string>FileFilter.java</string>
+		</array>
+		<array>
+			<string>InternString.java</string>
+		</array>
+		<array>
+			<string>RegularExpressionDemo.java</string>
+		</array>
+		<array>
+			<string>RegularExpressionDemo2.java</string>
+		</array>
+		<array>
+			<string>SplitStringDemo.java</string>
+		</array>
+		<array>
+			<string>StringDemo.java</string>
+		</array>
+		<array>
+			<string>UsePatternMatcher.java</string>
+		</array>
+		<array>
+			<string>UseRegularExpression.java</string>
+		</array>
+	</array>
+</dict>
+</plist>
